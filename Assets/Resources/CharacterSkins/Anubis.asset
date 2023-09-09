@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 333c313b037fd7c4ab23ee8c07537ce6, type: 3}
+  m_Name: Anubis
+  m_EditorClassIdentifier: 
+  <Model>k__BackingField: {fileID: 5475500558860850151, guid: 4f40debd9db8a7241b5e4a268a21b795,
+    type: 3}
+  <Image>k__BackingField: {fileID: 21300000, guid: a1a0aa5c4d0274a4c9712d935c780d9a,
+    type: 3}
+  <Price>k__BackingField: 5000
+  <SkinType>k__BackingField: 0

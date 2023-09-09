@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!90 &9000000
+Avatar:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: KayKitCharacterAvatar
+  m_AvatarSize: 1396
+  m_Avatar:
+    serializedVersion: 3
+    m_AvatarSkeleton:
+      data:
+        m_Node:
+        - m_ParentId: -1
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 1
+          m_AxesId: -1
+        - m_ParentId: 2
+          m_AxesId: -1
+        - m_ParentId: 2
+          m_AxesId: -1
+        - m_ParentId: 4
+          m_AxesId: -1
+        - m_ParentId: 2
+          m_AxesId: -1
+        - m_ParentId: 6
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        m_ID: 00000000f619cb05540485d51bdf76fad3cca79ef12d21353bdf9de802eae5e0d3b75b89
+        m_AxesArray: []
+    m_AvatarSkeletonPose:
+      data:
+        m_X:
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0, y: 0, z: 0}
+          q: {x: -0.0000002761675, y: 0.00000029802334, z: 0.00000006717954, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0, y: 0, z: 0}
+          q: {x: -0.00000008146034, y: 0, z: -0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0, y: 0.7115979, z: 0}
+          q: {x: 7.1054274e-15, y: -0, z: -0, w: 1}
+          s: {x: 1, y: 0.99999994, z: 1}
+        - t: {x: -0.14, y: 0.69159794, z: 0}
+          q: {x: 0.6858632, y: -0.17202254, z: 0.6858631, w: 0.17202257}
+          s: {x: 1.000001, y: 1.0000001, z: 1}
+        - t: {x: 3.5527137e-15, y: 0.5509222, z: -0.000000014901163}
+          q: {x: 0.60661685, y: 0.6066168, z: -0.36334014, w: 0.36334005}
+          s: {x: 0.9999998, y: 1, z: 0.9999999}
+        - t: {x: 0.14, y: 0.69159794, z: 0}
+          q: {x: 0.6858632, y: 0.1720227, z: 0.685863, w: -0.17202275}
+          s: {x: 1.000001, y: 1.0000001, z: 1}
+        - t: {x: 3.5527137e-15, y: 0.5509222, z: 0.000000014901172}
+          q: {x: 0.36333993, y: 0.36334017, z: -0.60661685, w: 0.60661685}
+          s: {x: 0.99999994, y: 1, z: 0.99999994}
+        - t: {x: -0, y: 0, z: 0}
+          q: {x: -0.000000037748947, y: 1.1115089e-13, z: 3.611903e-14, w: 1}
+          s: {x: 1, y: 1, z: 1}
+    m_DefaultPose:
+      data:
+        m_X:
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0, y: 0, z: 0}
+          q: {x: -0.0000002761675, y: 0.00000029802334, z: 0.00000006717954, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0, y: 0, z: 0}
+          q: {x: -0.00000008146034, y: 0, z: -0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0, y: 0.7115979, z: 0}
+          q: {x: 7.1054274e-15, y: -0, z: -0, w: 1}
+          s: {x: 1, y: 0.99999994, z: 1}
+        - t: {x: -0.14, y: 0.69159794, z: 0}
+          q: {x: 0.6858632, y: -0.17202254, z: 0.6858631, w: 0.17202257}
+          s: {x: 1.000001, y: 1.0000001, z: 1}
+        - t: {x: 3.5527137e-15, y: 0.5509222, z: -0.000000014901163}
+          q: {x: 0.60661685, y: 0.6066168, z: -0.36334014, w: 0.36334005}
+          s: {x: 0.9999998, y: 1, z: 0.9999999}
+        - t: {x: 0.14, y: 0.69159794, z: 0}
+          q: {x: 0.6858632, y: 0.1720227, z: 0.685863, w: -0.17202275}
+          s: {x: 1.000001, y: 1.0000001, z: 1}
+        - t: {x: 3.5527137e-15, y: 0.5509222, z: 0.000000014901172}
+          q: {x: 0.36333993, y: 0.36334017, z: -0.60661685, w: 0.60661685}
+          s: {x: 0.99999994, y: 1, z: 0.99999994}
+        - t: {x: -0, y: 0, z: 0}
+          q: {x: -0.000000037748947, y: 1.1115089e-13, z: 3.611903e-14, w: 1}
+          s: {x: 1, y: 1, z: 1}
+    m_SkeletonNameIDArray: 00000000f619cb058ca49a7ba259c1075310f46c74cf2e93c70fd705736022a0d3b75b89
+    m_Human:
+      data:
+        serializedVersion: 2
+        m_RootX:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        m_Skeleton:
+          data:
+            m_Node: []
+            m_ID: 
+            m_AxesArray: []
+        m_SkeletonPose:
+          data:
+            m_X: []
+        m_LeftHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_RightHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_HumanBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_HumanBoneMass:
+        - 0.14545456
+        - 0.12121213
+        - 0.12121213
+        - 0.048484854
+        - 0.048484854
+        - 0.009696971
+        - 0.009696971
+        - 0.030303033
+        - 0.14545456
+        - 0.14545456
+        - 0.012121214
+        - 0.048484854
+        - 0.006060607
+        - 0.006060607
+        - 0.024242427
+        - 0.024242427
+        - 0.01818182
+        - 0.01818182
+        - 0.006060607
+        - 0.006060607
+        - 0.0024242427
+        - 0.0024242427
+        - 0
+        - 0
+        - 0
+        m_Scale: 1
+        m_ArmTwist: 0.5
+        m_ForeArmTwist: 0.5
+        m_UpperLegTwist: 0.5
+        m_LegTwist: 0.5
+        m_ArmStretch: 0.05
+        m_LegStretch: 0.05
+        m_FeetSpacing: 0
+        m_HasLeftHand: 0
+        m_HasRightHand: 0
+        m_HasTDoF: 0
+    m_HumanSkeletonIndexArray: 
+    m_HumanSkeletonReverseIndexArray: 
+    m_RootMotionBoneIndex: -1
+    m_RootMotionBoneX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_RootMotionSkeleton:
+      data:
+        m_Node: []
+        m_ID: 
+        m_AxesArray: []
+    m_RootMotionSkeletonPose:
+      data:
+        m_X: []
+    m_RootMotionSkeletonIndexArray: 
+  m_TOS:
+    3773164034: KayKit Animated Character/Body/armRight/handSlotRight
+    3902660411: KayKit Animated Character/Body/armRight
+    2304489427: PrototypePete
+    0: 
+    2661797075: KayKit Animated Character/Body/armLeft
+    97196534: KayKit Animated Character
+    4202094363: KayKit Animated Character/Body/Head
+    891366897: KayKit Animated Character/Body/armLeft/handSlotLeft
+    3582264404: KayKit Animated Character/Body
+  m_HumanDescription:
+    serializedVersion: 3
+    m_Human: []
+    m_Skeleton: []
+    m_ArmTwist: 0.5
+    m_ForeArmTwist: 0.5
+    m_UpperLegTwist: 0.5
+    m_LegTwist: 0.5
+    m_ArmStretch: 0.05
+    m_LegStretch: 0.05
+    m_FeetSpacing: 0
+    m_GlobalScale: 1
+    m_RootMotionBoneName: 
+    m_HasTranslationDoF: 0
+    m_HasExtraRoot: 0
+    m_SkeletonHasParents: 1

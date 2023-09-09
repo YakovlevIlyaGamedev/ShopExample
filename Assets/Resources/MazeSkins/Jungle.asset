@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61474a2a199d20c47bc0b146fac911ff, type: 3}
+  m_Name: Jungle
+  m_EditorClassIdentifier: 
+  <Model>k__BackingField: {fileID: 3390391722206223743, guid: a7c4e86a03e2bdf46b2f696630f4c590,
+    type: 3}
+  <Image>k__BackingField: {fileID: 21300000, guid: 938edd438d59c7a42b552c043f1b4ddf,
+    type: 3}
+  <Price>k__BackingField: 4000
+  <SkinType>k__BackingField: 3
